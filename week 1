@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+  <title> Juliette Fennell </title>
+  <style>
+  body {
+      text-align: center;
+      background: url("http://24.media.tumblr.com/c5bb25f2c17c01dc93ce5e1a94f70d50/tumblr_mr1edbYFm11qzxlygo1_1280.jpg ");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font: bold 1.5em/2 arial, Helvetica, sans-serif;
+    }
+    p {
+      font-size: 22px;
+      font-style: bold;
+    }
+
+  </style>
+</head>
+<body>
+  <img src="desktop/juliettefennell.jpg">
+  <p>Hello, world! I'm Juliette.</p>
+
+</body>
