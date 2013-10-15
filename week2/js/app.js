@@ -1,3 +1,3 @@
 function hello() {
-	alert("Chrome");	
+	alert(navigator.appVersion);	
 }
